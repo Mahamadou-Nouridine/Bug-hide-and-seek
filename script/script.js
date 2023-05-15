@@ -21,7 +21,7 @@ const validationError = document.querySelector('.validation-error');
 
 // side menu
 const openSideMenu = () => {
-  sideMenu.classList.add('open-side-menu');
+  // sideMenu.classList.add('open-side-menu');
   body.style.overflow = 'hidden';
 };
 
